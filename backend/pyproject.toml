@@ -14,4 +14,5 @@ dependencies = [
     "langchain-community",
     "langchain-postgres",
     "psycopg2-binary",
+    "uvicorn>=0.46.0",
 ]
